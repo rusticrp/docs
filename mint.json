@@ -47,6 +47,12 @@
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
+    {
+      "name": "RusticRP API",
+      "openapi": "/path/to/api",
+      "url": "rustic-api-reference",
+      "icon": "square-terminal"
+    }
   ],
   "navigation": [
     {
